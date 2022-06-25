@@ -1,0 +1,19 @@
+.li-nav-bar >li{
+    display: inline;
+    font-size:13px;
+    color: white;
+    font-weight: 500;
+    padding: 0 12px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+  
+body{
+    background: gray;
+}
